@@ -43,7 +43,3 @@ while turns_taken < 10
   turns_taken += 1
 end
 end
-
-
-
-  
